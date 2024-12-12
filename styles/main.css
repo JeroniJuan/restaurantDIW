@@ -1,4 +1,6 @@
 body {
+    background-image: url(/img/BackgroundCanTronca.jpeg);
+    background-size: cover ;
     font-family: Arial, sans-serif;
 }
 
@@ -14,6 +16,9 @@ footer {
 }
 .imgLogo{
     max-width: 15%;
+}
+.imgIndex{
+    margin-left: 35%;
 }
 .container {
     max-width: 800px;
